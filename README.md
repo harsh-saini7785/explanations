@@ -1,5 +1,5 @@
 # explanations
-❓ What happens when you hit a URL in the browser?
+#❓ What happens when you hit a URL in the browser?
 When you enter a URL in a browser like Google Chrome, the browser first parses the URL into its components such as protocol, hostname, port, path, and query parameters. Before making any network request, it checks available caches (memory cache, disk cache, and service worker cache) to determine whether a valid cached response already exists. If a cached response is found and still valid, it is returned immediately; otherwise, the browser proceeds with a network request.
 
 The next step is DNS resolution, where the browser converts the domain name into an IP address. It first checks the browser cache, then the operating system cache, and if necessary, queries a DNS resolver, which recursively contacts root, TLD, and authoritative DNS servers to resolve the domain.
