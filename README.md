@@ -1,6 +1,6 @@
 # Explanations
 
-## ❓ What happens when you hit a URL in the browser?
+## ❓ What happens when you hit a URL in the browser??
 
 When you enter a URL in a browser like Google Chrome, the browser first **parses the URL** into its components such as protocol, hostname, port, path, and query parameters.
 
