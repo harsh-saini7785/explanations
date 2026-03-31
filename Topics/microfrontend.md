@@ -25,7 +25,7 @@
 
 ## What is a Microfrontend?
 
-A **microfrontend** is an architectural pattern where a large frontend application is broken into smaller, independently deployable pieces — each owned by a separate team, built with its own tech stack, and composed together at runtime in the browser.
+A **microfrontend** is a architectural pattern where a large frontend application is broken into smaller, independently deployable pieces — each owned by a separate team, built with its own tech stack, and composed together at runtime in the browser.
 
 It is the frontend equivalent of microservices on the backend.
 
