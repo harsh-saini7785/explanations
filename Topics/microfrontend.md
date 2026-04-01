@@ -34,10 +34,10 @@ It is the frontend equivalent of microservices on the backend.
 │                  Shell / Host App                │
 │         (composes all MFEs at runtime)           │
 │                                                  │
-│  ┌─────────────┐  ┌─────────────┐  ┌──────────┐ │
-│  │ Nav MFE     │  │Checkout MFE │  │Profile   │ │
-│  │ Team A      │  │Team B·React │  │MFE Team C│ │
-│  └─────────────┘  └─────────────┘  └──────────┘ │
+│  ┌─────────────┐  ┌─────────────┐  ┌──────────┐ │|
+│  │ Nav MFE     │  │Checkout MFE │  │Profile   │ │|
+│  │ Team A      │  │Team B·React │  │MFE Team C│ │|
+│  └─────────────┘  └─────────────┘  └──────────┘ │|
 │                                                  │
 │  ┌──────────────────────────────────────────┐    │
 │  │  Shared Layer — React, ReactDOM, tokens  │    │
